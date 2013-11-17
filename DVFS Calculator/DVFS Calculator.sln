@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVFS Calculator", "DVFS Calculator\DVFS Calculator.csproj", "{1261D7E6-5C52-4418-B51D-5000C71B6819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{9B9FBD43-64C0-43BF-9C9C-A7D3CAA4FEFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{CF947EE4-9821-4A18-B655-6FD827131A90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1261D7E6-5C52-4418-B51D-5000C71B6819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1261D7E6-5C52-4418-B51D-5000C71B6819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1261D7E6-5C52-4418-B51D-5000C71B6819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1261D7E6-5C52-4418-B51D-5000C71B6819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9FBD43-64C0-43BF-9C9C-A7D3CAA4FEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9FBD43-64C0-43BF-9C9C-A7D3CAA4FEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9FBD43-64C0-43BF-9C9C-A7D3CAA4FEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9FBD43-64C0-43BF-9C9C-A7D3CAA4FEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF947EE4-9821-4A18-B655-6FD827131A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF947EE4-9821-4A18-B655-6FD827131A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF947EE4-9821-4A18-B655-6FD827131A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF947EE4-9821-4A18-B655-6FD827131A90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
